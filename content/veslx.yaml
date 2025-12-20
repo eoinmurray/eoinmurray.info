@@ -1,0 +1,8 @@
+dir: .
+site:
+  name: Eoin Murray
+  description: "Contact me@eoinmurray.info"
+  github: "eoinmurray/eoinmurray.info"
+
+posts:
+  sort: date

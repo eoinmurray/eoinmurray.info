@@ -1,0 +1,10 @@
+{
+  "name": "eoinmurray.info",
+  "scripts": {
+    "dev": "veslx serve content",
+    "build": "veslx build content"
+  },
+  "dependencies": {
+    "veslx": "^0.1.36"
+  }
+}
