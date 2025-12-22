@@ -1,0 +1,5 @@
+dir: content
+site:
+  name: Eoin Murray
+  description: "Profile"
+  llmsTxt: true
