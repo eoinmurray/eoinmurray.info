@@ -7,9 +7,13 @@ description: "Academic and professional profile"
 
 [me@eoinmurray.info](mailto:me@eoinmurray.info)
 
-Computational neuroscientist and AI engineer completing a PhD at Cambridge. Fifteen years across academic research, two venture-backed startups including one acquisition, and senior technical consulting.
+Cambridge, UK · Valencia, Spain · Remote engagements
 
-Currently available for a small number of part-time engagements.
+I split my time between a computational neuroscience PhD at Cambridge and independent, remote AI product work. The PhD is fixed. I take on one commercial engagement at a time.
+
+I scout high-leverage LLM opportunities, build the first system, and set the roadmap and team for production. Right now, I am leading a product from original research toward deployment at telecom scale.
+
+To test fit, send me a small, real problem. Give me a few hours; I will tell you what works, what does not, and what to build next. If useful, we continue.
 
 ## Education
 
@@ -17,15 +21,16 @@ Currently available for a small number of part-time engagements.
 | --- | --- | --- |
 | University of Cambridge | 2026-2029 | PhD Machine Learning |
 | University of Cambridge | 2015-2016 | MPhil Physics |
-| University College Cork | 2010-2014 | BSc (Hons) Physics and Mathematical Sciences |
+| University College Cork | 2010-2014 | BSc (Hons) Physics and Mathematical Sciences; quantum-dot researcher at Tyndall National Institute, 2011–2014 |
 
 ## Experience
 
 - *Marie Curie Fellow.* University of Cambridge. Doing a PhD in the lab of Prof. Timothy O'Leary studying Spiking Neural Networks. 2026-2029.
-- *Consultant.* Clients include Series A-F companies. Currently building autonomous agents to diagnose and fix home network issues at scale. 2024-now.
+- *Independent AI engineer and product lead.* Originated an LLM product through a year of solo R&D, then brought on two engineers and helped assemble an internal client team. Now leading the product through QA toward a telecom pilot, designed for 500,000–1 million users. 2024–now.
 - *Time off.* 2022-2024.
-- *Co-founder & CEO.* Kyso. Raised VC funding. Led an 8-person team delivering a data-science platform used by Fortune 500 pharmaceutical companies. Company closed in 2023. 2017-2022.
-- *Co-founder & CTO.* Rinocloud. Co-founded and raised investment to build "Dropbox for Scientists." Led technical vision and product development. Acquired by Deepverge PLC. 2016-2017.
+- *Co-founder, CEO & founding CTO.* Took Kyso through Techstars and raised $1.4 million in venture funding. Built the initial product, hired and led an eight-person team, and recruited a CTO to take over technical leadership. Brought the enterprise data-science platform to pilot with a global pharmaceutical company. Company closed in 2023. 2017–2022.
+- *Co-founder & CTO.* Co-founded Rinocloud, a "Dropbox for scientists." Helped raise venture funding, set the product direction, built the platform, and brought in its first research users. Left after 18 months to start Kyso; Rinocloud was acquired in a multimillion-dollar deal the following year. 2016–2017.
+- *Marie Curie Fellow and quantum-device researcher.* Employed by Toshiba Research Cambridge while completing an MPhil at Cambridge. Developed quantum photonic devices and began a PhD before leaving to co-found Rinocloud. 2015–2016.
 
 ## Publications
 
