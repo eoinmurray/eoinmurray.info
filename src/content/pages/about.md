@@ -11,7 +11,7 @@ Cambridge, UK · Valencia, Spain · Remote engagements
 
 I split my time between a computational neuroscience PhD at Cambridge and independent, remote AI product work. The PhD is fixed. I take on one commercial engagement at a time.
 
-I scout high-leverage LLM opportunities, build the first system, and set the roadmap and team for production. Right now, I am leading a product from original research toward deployment at telecom scale.
+I scout high-leverage LLM product opportunities, build the first system, and set the roadmap and team for production. Right now, I am leading a product from original research toward deployment at telecom scale.
 
 To test fit, send me a small, real problem. Give me a few hours; I will tell you what works, what does not, and what to build next. If useful, we continue.
 
@@ -26,7 +26,7 @@ To test fit, send me a small, real problem. Give me a few hours; I will tell you
 ## Experience
 
 - *Marie Curie Fellow.* University of Cambridge. Doing a PhD in the lab of Prof. Timothy O'Leary studying Spiking Neural Networks. 2026-2029.
-- *Independent AI engineer and product lead.* Originated an LLM product through a year of solo R&D, then brought on two engineers and helped assemble an internal client team. Now leading the product through QA toward a telecom pilot, designed for 500,000–1 million users. 2024–now.
+- *Independent AI engineer and product lead.* Originated and built an LLM voice and chat product that guides users through complex support workflows, combining conversational interaction with navigation of a structured support graph. Took the product from a year of solo R&D to a development team, bringing on two engineers and helping assemble an internal client team. Now leading QA and preparation for a telecom pilot, with a target deployment of 500,000–1 million users. 2024–now.
 - *Time off.* 2022-2024.
 - *Co-founder, CEO & founding CTO.* Took Kyso through Techstars and raised $1.4 million in venture funding. Built the initial product, hired and led an eight-person team, and recruited a CTO to take over technical leadership. Brought the enterprise data-science platform to pilot with a global pharmaceutical company. Company closed in 2023. 2017–2022.
 - *Co-founder & CTO.* Co-founded Rinocloud, a "Dropbox for scientists." Helped raise venture funding, set the product direction, built the platform, and brought in its first research users. Left after 18 months to start Kyso; Rinocloud was acquired in a multimillion-dollar deal the following year. 2016–2017.
@@ -34,6 +34,7 @@ To test fit, send me a small, real problem. Give me a few hours; I will tell you
 
 ## Publications
 
+- *Training Spiking Neural Networks exhibiting Gamma Oscillations.* Eoin Murray and Timothy O'Leary. In production. October 2026.
 - *Quantum photonics hybrid integration platform.* Murray E, Ellis DJP, Meany T, Floether FF, Lee JP, Griffiths JP, Jones GAC, Farrer I, Ritchie DA, Bennett AJ, Shields AJ. Applied Physics Letters 107 (17). 2015.
 - *Monte Carlo simulation of photonic state tomography: a virtual Hanbury Brown and Twiss correlator.* Murray E, Juska G, Pelucchi E. European Journal of Physics 37 (3). 2016.
 - *Electrically driven and electrically tunable quantum light sources.* Lee JP, Murray E, Bennett AJ, Ellis DJP, Dangel C, Farrer I, Spencer P, Ritchie D, Shields AJ. Applied Physics Letters 110 (7). 2017.
