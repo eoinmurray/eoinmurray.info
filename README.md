@@ -11,3 +11,7 @@ bun run build
 ```
 
 Content lives in `src/content/pages/` as markdown files.
+
+Page URLs use no trailing slash (for example, `/about`). Astro uses
+`trailingSlash: 'never'` locally and builds pages as HTML files so GitHub Pages
+can serve the same extensionless URLs without redirecting to a directory URL.

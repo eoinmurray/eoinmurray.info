@@ -8,6 +8,9 @@ import mdx from '@astrojs/mdx';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://eoinmurray.info',
+  trailingSlash: 'never',
+
+  build: { format: 'file' },
 
   devToolbar: { enabled: false },
 
